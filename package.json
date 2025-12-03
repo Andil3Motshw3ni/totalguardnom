@@ -1,0 +1,26 @@
+{
+  "name": "total-guard-website",
+  "version": "1.0.0",
+  "description": "Total Guard - Your Trusted Partner in Personal Protective Equipment",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static site'",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "ppe",
+    "personal-protective-equipment",
+    "safety",
+    "total-guard",
+    "industrial-safety"
+  ],
+  "author": "MiniMax Agent",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
